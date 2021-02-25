@@ -1,6 +1,6 @@
-package com.javarush.task.task28.task2810;
+package aggregator;
 
-import com.javarush.task.task28.task2810.model.Model;
+import aggregator.model.Model;
 
 public class Controller {
     private Model model;

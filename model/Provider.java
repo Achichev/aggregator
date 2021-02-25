@@ -1,6 +1,6 @@
-package com.javarush.task.task28.task2810.model;
+package aggregator.model;
 
-import com.javarush.task.task28.task2810.vo.Vacancy;
+import aggregator.vo.Vacancy;
 
 import java.util.List;
 

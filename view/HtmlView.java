@@ -1,7 +1,7 @@
-package com.javarush.task.task28.task2810.view;
+package aggregator.view;
 
-import com.javarush.task.task28.task2810.Controller;
-import com.javarush.task.task28.task2810.vo.Vacancy;
+import aggregator.Controller;
+import aggregator.vo.Vacancy;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
